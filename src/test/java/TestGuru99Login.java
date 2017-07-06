@@ -89,7 +89,7 @@ public class TestGuru99Login {
 
         //Verify home page
 
-        Assert.assertTrue(objHomePage.getHomePageDashboardUserName().toLowerCase().contains("manger id : mngr86453"));
+        Assert.assertTrue(objHomePage.getHomePageDashboardUserName().toLowerCase().contains("manger id : mngr86453!"));
 
     }
 
