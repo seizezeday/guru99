@@ -66,4 +66,10 @@ test {
     onOutput { descriptor, event ->
         logger.lifecycle("Test: " + descriptor + " produced standard out/err: " + event.message )
     }
+
+
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '4.0'
 }
