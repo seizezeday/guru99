@@ -40,6 +40,10 @@ test {
     // enable TestNG support (default is JUnit)
     useTestNG()
 
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+
     // set a system property for the test JVM(s)
     //systemProperty 'some.prop', 'value'
 
