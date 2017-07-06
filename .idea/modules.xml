@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guru99.iml" filepath="$PROJECT_DIR$/.idea/modules/guru99.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guru99_main.iml" filepath="$PROJECT_DIR$/.idea/modules/guru99_main.iml" group="guru99" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guru99_test.iml" filepath="$PROJECT_DIR$/.idea/modules/guru99_test.iml" group="guru99" />
+    </modules>
+  </component>
+</project>
